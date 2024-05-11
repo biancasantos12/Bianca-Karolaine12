@@ -1,0 +1,21 @@
+* {
+margin: 0;    
+padding: 0;
+}
+
+
+.cabecalho{
+background-color: black;
+color: #ffffff;
+display: flex;
+justify-content: space-around;
+align-items: center;
+padding: 24px 0;
+
+
+}
+
+.cabecalho-div{
+display: flex;
+
+}
